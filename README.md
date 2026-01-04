@@ -14,3 +14,4 @@ Add more depth to Stamina
 Add a intro speel about waking up after your surgery and the nurses give you the quick and dirty
 A recommendation or point scoring for how quickly the game is won
 A fluffy prize for winners and silly things to do to other players once a completed player is out of the game
+Alt Rules for playing the game for real with buttplugs or something 
