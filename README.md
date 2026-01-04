@@ -1,5 +1,5 @@
 # realistic-bottom-surgery-recovery-simulator
-A board game about recovering from vaginoplasty
+A board game about recovering from vaginoplasty surgery
 
 While educational, the goal of this game is to make feminizing bottom surgery (vaginoplasty) more comfortable and idea and make it easier to talk about. Let's be awkward for 20 minutes while playing the silly game and then have a frank discussion later.
 
