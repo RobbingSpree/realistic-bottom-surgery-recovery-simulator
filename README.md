@@ -17,3 +17,4 @@ A recommendation or point scoring for how quickly the game is won
 A fluffy prize for winners and silly things to do to other players once a completed player is out of the game
 Alt Rules for playing the game for real with buttplugs or something 
 Actually make a PDF of this nonsense
+
