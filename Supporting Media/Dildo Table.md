@@ -1,10 +1,9 @@
-
-| Dildo Level | Value needed to pass to next | Actual Factual Dildo Diameter |
-| ----------- | ---------------------------- | ----------------------------- |
-| 1           |                              | 0.125 inches                  |
-| 2           |                              | 0.25 inches                   |
-| 3           |                              | 0.375 inches                  |
-| 4           |                              | 0.5 inches                    |
-| 5           |                              | 0.625 inches                  |
-| 6           |                              | 0.75 inches                   |
-| 7           |                              | 0.875 inches                  |
+| Dildo level | Dice total needed to pass | Percentile Equivalent | Dilator diameter for IRL recovery |
+| --- | --- | --- | --- |
+| 1 | 10 | 28% fails on 3d6 | 0.125” |
+| 2 | 12 | 66% fails on 3d6 | 0.25” |
+| 3 | 14 | 50% fails on 4d6 | 0.375” |
+| 4 | 20 | 40% fails on 6d6 | 0.5” |
+| 5 | 24 | 68% fails on 6d6 | 0.6125” |
+| 6 | 30 | 40% fails on 9d6 | 0.75” |
+| 7 | 36 | 66% fails on 9d6 | 0.8725” |
