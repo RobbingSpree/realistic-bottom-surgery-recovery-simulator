@@ -17,7 +17,7 @@ Players can roll their dice in any number at a time.
 However to reaise a player's stamina they need to roll at least two dice at once, since when a player rolls a pair with the same result or a triple of the same result they can remove those dice from their results and increase their stamina such they can roll 1 additional dice next turn by removing a pair of the same result or raise it by two by removing three of a kind (if you are lucky enough to roll foure of a kind or higher that can be treated as several pairs or triples).
 The exception to this is the number 1. The first 1 in any roll is ignored and any future 1's rolled are treated as 0 when adding the total together.
 
-A player's Limit is the size of the dildo they can fit inside them and starts at 1 and is raised by rolling a total greater than the threshold for their dilator level. 
+A player's Limit is the size of the dilator they can fit inside them and starts at 1 and is raised by rolling a total greater than the threshold for their dilator level. 
 
 If a player manages to pass their current check with some dice remaining they can choose to move on to the next check with their remaining die and roll what's left, however they will start the count for their total roll from zero again (as when IRL dilating in surgery recovery you need to wait 30 minutes to an hour before attempting the next size up of dilator so you don't get to ride the wave of success).
 
@@ -33,7 +33,7 @@ A complication will have a dice value from 2-6, a player will resolve their comp
 
 (This table breaks in some markdown editors)
 
-| Dildo level | Dice total needed to pass | Percentile Equivalent | Dilator diameter for IRL recovery |
+| Limit | Dice total needed to pass | Percentile Equivalent | Dilator diameter for IRL recovery |
 | --- | --- | --- | --- |
 | 1 | 10 | 28% fails on 3d6 | 0.125” |
 | 2 | 12 | 66% fails on 3d6 | 0.25” |
