@@ -18,12 +18,12 @@ Complications remove themself and the first dice that matches their value that y
 Equal or beat the value for the 7th limit first to win.
 
 
-| Dilator level | Dice total needed to pass | 
-| --- | --- | 
-| 1 | 10 | 
-| 2 | 12 | 
-| 3 | 14 | 
+| Dilator level | Dice total needed to pass |
+| --- | --- |
+| 1 | 10 |
+| 2 | 12 |
+| 3 | 14 |
 | 4 | 20 |
-| 5 | 24 | 
-| 6 | 30 | 
-| 7 | 36 | 
+| 5 | 24 |
+| 6 | 30 |
+| 7 | 36 |
