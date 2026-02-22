@@ -16,3 +16,14 @@ The first 1 in every roll gets you a complication.
 Complications remove themself and the first dice that matches their value that you roll.
 
 Equal or beat the value for the 7th limit first to win.
+
+
+| Dilator level | Dice total needed to pass | 
+| --- | --- | 
+| 1 | 10 | 
+| 2 | 12 | 
+| 3 | 14 | 
+| 4 | 20 |
+| 5 | 24 | 
+| 6 | 30 | 
+| 7 | 36 | 
